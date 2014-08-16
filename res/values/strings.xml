@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">КПІ</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="passwordHint">Пароль</string>
+    <string name="loginButton">Вхід</string>
+    <string name="loginHint">Логін</string>
+    <string name="badInputLoginDataFormat">Login or password are incorrect</string>
+    <string name="emptyInputFields">Fill all fields</string>
+    <string name="loginDialogMessage">Login...</string>
+    <string name="incorrectLoginOrPassword">Incorrect login and/or password</string>
+    <string name="debugOK">Everything is OK</string>
+    <string name="sign_out_button_name">Вихід</string>
+    <string name="title_activity_main_menu">Головне меню</string>
+    <string name="app_name_schedule">Розклад</string>
+    <string name="refresh_label">Refresh</string>
+    <string name="settings_label">Settings</string>
+    <string name="rss_list_url">http://sp-qa.teamspark.in.ua/Service/GetAllFeeds</string>
+    <string name="settings">Settings</string>
+    <string name="rss_feed_list_preferences">rss_feed_settings</string>
+    <string name="rss_feed_pref_changed">rss_feed_pref_changed</string>
+    <string name="server_url_feeds">"http://sp-qa.teamspark.in.ua/Service/GetRss</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentSettings">fragmentSettings</string>
+    <string name="fragmentRSSList">fragmentRSSList</string>
+    <string name="btnhome">Центр</string>
+    <string name="me">Me</string>
+    <string name="btnsearch">Пошук</string>
+    <string name="search">Housing_№1</string>
+    <string name="no_such_elem">No such element</string>
+    <string name="no_elem_in_hmap">The list is empty</string>
+    <string name="btnway">Шлях</string>
+    <string name="title_for_marker">Корпус №</string>
+
+    <string name="item_center">Центр</string>
+    <string name="item_way">Шлях</string>
+    <string name="item_search">Пошук</string>
+    <string name="item4">Налаштування</string>
+    <string name="number_list">Корпуси</string>
+    <string name="name_list">Корпуси</string>
+    <string name="empty">List is empty</string>
+    <string name="btn_way_text">Прямувати</string>
+    <string name="btnWayGo">btnWayGo</string>
+    <string name="idBtnWay">idBtnWay</string>
+    <string name="err_point_absent">Точка центрування відсутня</string>
+    <string name="err_google_maps_not_available">Сервіс Google карт недоступний. Перевірте налаштування</string>
+
+
+    <string name="news">Новини</string>
+    <string name="rss_settings">Налаштування</string>
+    <string name="account_settings">Аккаунт</string>
+
+</resources>

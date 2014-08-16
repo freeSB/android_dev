@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="markers">
+        <item>{"title":"1","lat":"50.449614","lng":"30.46082"}</item>
+        <item>{"title":"2","lat":"50.447725","lng":"30.463076"}</item>
+        <item>{"title":"4","lat":"50.450661","lng":"30.455716"}</item>
+        <item>{"title":"5","lat":"50.449112","lng":"30.46545"}</item>
+        <item>{"title":"6","lat":"50.448781","lng":"30.46049"}</item>
+        <item>{"title":"7","lat":"50.448776","lng":"30.457379"}</item>
+        <item>{"title":"8","lat":"50.452159","lng":"30.453235"}</item>
+        <item>{"title":"9","lat":"50.447392","lng":"30.462421"}</item>
+        <item>{"title":"10","lat":"50.448458","lng":"30.454764"}</item>
+        <item>{"title":"11","lat":"50.448685","lng":"30.455276"}</item>
+        <item>{"title":"12","lat":"50.447858","lng":"30.454195"}</item>
+        <item>{"title":"13","lat":"50.447735","lng":"30.45566"}</item>
+        <item>{"title":"14","lat":"50.447708","lng":"30.455965"}</item>
+        <item>{"title":"15","lat":"50.447607","lng":"30.456794"}</item>
+        <item>{"title":"16","lat":"50.447585","lng":"30.457078"}</item>
+        <item>{"title":"17","lat":"50.447544","lng":"30.458157"}</item>
+        <item>{"title":"18","lat":"50.447238","lng":"30.456837"}</item>
+        <item>{"title":"19","lat":"50.446989","lng":"30.459275"}</item>
+        <item>{"title":"20","lat":"50.447199","lng":"30.460986"}</item>
+        <item>{"title":"21","lat":"50.447001","lng":"30.460514"}</item>
+        <item>{"title":"22","lat":"50.446104","lng":"30.45423"}</item>
+        <item>{"title":"23","lat":"50.44546","lng":"30.455292"}</item>
+        <item>{"title":"24","lat":"50.442994","lng":"30.44871"}</item>
+        <item>{"title":"25","lat":"50.456623","lng":"30.51834"}</item>
+        <item>{"title":"26","lat":"50.434015","lng":"30.535911"}</item>
+        <item>{"title":"27","lat":"50.443289","lng":"30.447106"}</item>
+        <item>{"title":"28","lat":"50.446955","lng":"30.463599"}</item>
+        <item>{"title":"30","lat":"50.443031","lng":"30.443286"}</item>
+        <item>{"title":"35","lat":"50.449575","lng":"30.464918"}</item>
+
+    </string-array>
+</resources>

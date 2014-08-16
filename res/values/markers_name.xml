@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="markers_name">
+        <item>{"title":"Housing_№1","number":"1"}</item>
+        <item>{"title":"Housing_№2","number":"2"}</item>
+        <item>{"title":"Housing_№4","number":"4"}</item>
+        <item>{"title":"Housing_№5","number":"5"}</item>
+        <item>{"title":"Housing_№6","number":"6"}</item>
+        <item>{"title":"Housing_№7","number":"7"}</item>
+        <item>{"title":"Housing_№8","number":"8"}</item>
+        <item>{"title":"Housing_№9","number":"9"}</item>
+        <item>{"title":"Housing_№10","number":"10"}</item>
+        <item>{"title":"Housing_№11","number":"11"}</item>
+        <item>{"title":"Housing_№12","number":"12"}</item>
+        <item>{"title":"Housing_№13","number":"13"}</item>
+        <item>{"title":"Housing_№14","number":"14"}</item>
+        <item>{"title":"Housing_№15","number":"15"}</item>
+        <item>{"title":"Housing_№16","number":"16"}</item>
+        <item>{"title":"Housing_№17","number":"17"}</item>
+        <item>{"title":"Housing_№18","number":"18"}</item>
+        <item>{"title":"Housing_№19","number":"19"}</item>
+        <item>{"title":"Housing_№20","number":"20"}</item>
+        <item>{"title":"Housing_№21","number":"21"}</item>
+        <item>{"title":"Housing_№22","number":"22"}</item>
+        <item>{"title":"Housing_№23","number":"23"}</item>
+        <item>{"title":"Housing_№24","number":"24"}</item>
+        <item>{"title":"Housing_№25","number":"25"}</item>
+        <item>{"title":"Housing_№26","number":"26"}</item>
+        <item>{"title":"Housing_№27","number":"27"}</item>
+        <item>{"title":"Housing_№28","number":"28"}</item>
+        <item>{"title":"Housing_№30","number":"30"}</item>
+        <item>{"title":"Housing_№35","number":"35"}</item>
+
+    </string-array>
+</resources>
